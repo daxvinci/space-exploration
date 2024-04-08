@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 
 Loads json data.\
 Open [ http://localhost:8000]( http://localhost:8000) to view it in your browser.
-it has a few endpoints
+it has a few endpoints.\
 
 ### `npm test`
 
