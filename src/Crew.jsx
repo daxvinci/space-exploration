@@ -1,8 +1,9 @@
-import useFetch from "./useFetch";
+// import useFetch from "./useFetch";
+import crewJson from "./crewJson";
 import CrewData from "./CrewData";
 
 const Crew = () => {
-    const {planets:crew} = useFetch("http://localhost:8000/crew");
+    const crew = crewJson;
     return ( 
         <>
         <div className="backg"></div>

@@ -1,9 +1,10 @@
-import useFetch from "./useFetch";
+// import useFetch from "./useFetch";
+import techJson from "./technJson";
 import TechData from "./TechData";
 
 
 const Technology = () => {
-    const {planets:tech} = useFetch("http://localhost:8000/technology");
+    const tech = techJson;
     return ( 
         <>
         <div className="tech-bg"></div>

@@ -153,6 +153,9 @@ ul span{
   align-items: center;
   background-color: aquamarine;
 }
+
+
+/*-----DESTINATION-----*/
 .destination{
   font-family: 'Barlow Condensed', sans-serif;
   display:flex;
@@ -262,6 +265,9 @@ ul span{
   font-weight:400;
   font-family: 'Bellefair', serif;
 }
+
+
+/*-----CREW-----*/
 .meet{
   margin-bottom: 100px;
 }
@@ -317,6 +323,8 @@ ul span{
 .active-crew{
   background-color: black;
 }
+
+/*-----TECH-----*/
 .destination-tech{
   display: flex;
   /* width: 90%; */
