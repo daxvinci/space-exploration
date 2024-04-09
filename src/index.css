@@ -602,15 +602,19 @@ ul span{
 @media (max-width: 481px) {
   .home-bg{
   background-image: url("../public/assets/home/background-home-mobile.jpg");
+  background-size: cover;
   }
   .dest-bg{
   background-image: url("../public/assets/destination/background-destination-mobile.jpg");
+  background-size: cover;
   }
   .backg{
     background-image: url("../public/assets/crew/background-crew-mobile.jpg");
+    background-size: cover;
   }
   .tech-bg{
   background-image: url("../public/assets/technology/background-technology-mobile.jpg");
+  background-size: cover;
   }
   .drop{
     display: none;
