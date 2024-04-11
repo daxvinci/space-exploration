@@ -312,7 +312,7 @@ ul span{
 .slider{
   display: inline-block;
   cursor: pointer;
-  border: 1px solid black;
+  border: 1px solid gray;
   border-radius: 50%;
   margin-right: 30px;
   height: 10px;
