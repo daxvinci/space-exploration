@@ -72,9 +72,4 @@ function CustomLink ({to, children, style, ...rest}){
     )
 }
 
-
-
-
-
-
 export default Navbar;

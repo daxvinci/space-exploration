@@ -603,18 +603,22 @@ ul span{
   .home-bg{
   background-image: url("../public/assets/home/background-home-mobile.jpg");
   background-size: cover;
+  height: 200%;
   }
   .dest-bg{
   background-image: url("../public/assets/destination/background-destination-mobile.jpg");
   background-size: cover;
+  height: 200%;
   }
   .backg{
     background-image: url("../public/assets/crew/background-crew-mobile.jpg");
     background-size: cover;
+    height: 200%;
   }
   .tech-bg{
   background-image: url("../public/assets/technology/background-technology-mobile.jpg");
   background-size: cover;
+  height: 200%;
   }
   .drop{
     display: none;
